@@ -1,0 +1,3 @@
+# requirements.txt
+# Add your dependencies here, e.g.:
+# flask==3.0.0
