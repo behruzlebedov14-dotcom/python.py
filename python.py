@@ -21,7 +21,7 @@ import os
 #               SOZLAMALAR
 # ══════════════════════════════════════════
 BOT_TOKEN        = '8688115939:AAH0k_8l530CvZ9AT2IO-Ve3b3NH2XgkrF0'
-ADMIN_IDS        = [8176839432]  # ✅ Tuzatildi - list with one admin ID
+ADMIN_IDS        = [7136222412]  # ✅ Tuzatildi - list with one admin ID
 CHANNEL_USERNAME = None    # "@kanalim" yoki None
 DB_FILE          = "movies.db"
 BOT_NAME         = "🎬 KinoBot"
